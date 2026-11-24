@@ -1,0 +1,23 @@
+# Runtime output and evidence
+temp/
+data/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.log
+*.zip
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.mp4
+*.avi
+
+# Local editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large portable artifacts are delivered outside the source repo
+r1999_portable_*/

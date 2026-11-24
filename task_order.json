@@ -1,0 +1,50 @@
+{
+  "sanguosha": {
+    "order": [
+      "征战天下",
+      "成长模块",
+      "在线礼包",
+      "蛋糕小游戏",
+      "合成大将军",
+      "钓鱼小游戏"
+    ],
+    "settings": {
+      "征战天下": {
+        "enabled": true,
+        "threshold": 0.85,
+        "repeat": false,
+        "cooldown": 0.0
+      },
+      "成长模块": {
+        "enabled": true,
+        "threshold": 0.85,
+        "repeat": false,
+        "cooldown": 0.0
+      },
+      "在线礼包": {
+        "enabled": true,
+        "threshold": 0.85,
+        "repeat": true,
+        "cooldown": 120.0
+      },
+      "蛋糕小游戏": {
+        "enabled": true,
+        "threshold": 0.85,
+        "repeat": false,
+        "cooldown": 0.0
+      },
+      "合成大将军": {
+        "enabled": true,
+        "threshold": 0.85,
+        "repeat": false,
+        "cooldown": 0.0
+      },
+      "钓鱼小游戏": {
+        "enabled": false,
+        "threshold": 0.85,
+        "repeat": false,
+        "cooldown": 0.0
+      }
+    }
+  }
+}
