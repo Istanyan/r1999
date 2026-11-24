@@ -1,6 +1,11 @@
 # Runtime output and evidence
 temp/
 data/
+.venv/
+adb/
+models/
+tools/
+.paddleocr/
 __pycache__/
 **/__pycache__/
 *.py[cod]
